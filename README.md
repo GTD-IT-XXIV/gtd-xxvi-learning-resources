@@ -1,4 +1,4 @@
-# GTD IT Learning Resources
+# GTD IT Learning Resources :books:
 
 ## Content
 
@@ -43,8 +43,8 @@ Kalo kalian lebih suka belajar dari satu resource yang extensive (udah cover dar
 
 - Buat yang baru belajar:
 
-  1. Foundations (semua)
-  2. UI/UX (User Interface Design Using Figma)
+  1. Foundations (semua bagian)
+  2. UI/UX (User Interface Design Using Figma) \[opsional\]
   3. Frontend (React & Tailwind CSS)
   4. Miscellaneous (Git & GitHub)
 
