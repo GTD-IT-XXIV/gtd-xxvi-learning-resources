@@ -52,4 +52,4 @@ Kalo kalian lebih suka belajar dari satu resource yang extensive (udah cover dar
   1. Miscellaneous (TypeScript)
   2. Backend (Express)
 
-**[Continue to Foundations >](foundations/README.md)**
+**[Continue to Foundations >](foundations/README.md)** or **[Continue to Fullstack >](misc/fullstack/README.md)**
