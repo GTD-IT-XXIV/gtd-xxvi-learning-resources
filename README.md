@@ -6,7 +6,7 @@
 2. [User Experience & Interface Design](ux-ui/README.md)
 3. [Frontend](frontend/README.md)
 4. [Backend](backend/README.md)
-5. [Miscellaneous](miscellaneous/README.md)
+5. [Miscellaneous](misc/README.md)
 
 ## About
 
