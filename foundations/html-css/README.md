@@ -27,7 +27,7 @@
 | **Prereq**      | -                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Content**     | <li>How the web works</li><li>Inspecting HTTP requests & responses w/ DevTools</li><li>**HTML basics**: text, image, hyperlink</li><li>**CSS basics**: class selector, example of some properties</li><li>Inspecting pages w/ DevTools</li><li>HTML `<head>` section & validation</li>                                                                                                |
 | **Depth**       | HTML: ★★<br>CSS: ★                                                                                                                                                                                                                                                                                                                                                                    |
-| **Comment**         | "Even though I know some of you guys udah pernah belajar HTML & CSS, it would be great to refresh the knowledge again by watching these 2 crash courses. This basic of HTML & CSS would serve as a great foundation biar belajar React and UI library like TailwindCSS much much smoother" -Kristian<br>"Ok ini ada jelasin behind the scenes cara web kerja secara high-level" -Gill |
+| **Comment**     | "Even though I know some of you guys udah pernah belajar HTML & CSS, it would be great to refresh the knowledge again by watching these 2 crash courses. This basic of HTML & CSS would serve as a great foundation biar belajar React and UI library like TailwindCSS much much smoother" -Kristian<br>"Ok ini ada jelasin behind the scenes cara web kerja secara high-level" -Gill |
 
 ### [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
 
@@ -47,6 +47,26 @@
 | **Prereq**      | -                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Content**     | <li>Text editors</li><li>Chrome DevTools: inspect elements</li><li>**HTML basics**: text, `<div>` & `<span>`, image, hyperlink, forms, semantics</li><li>**CSS basics**: text, color, display (block, inline), margin & padding, default browser styles, class selector, id selector, descendant selector, attribute selector, cascade, layout position, pseudo-classes, media query</li> |
 | **Depth**       | HTML: ★★★★<br>CSS: ★★★★                                                                                                                                                                                                                                                                                                                                                                   |
-| **Comment**         | "Akan lebih baik kalau kalian punya basic HTML, CSS dan Javascript sebelum mulai belajar React ya. Engga ush terlalu dalem2 banget, at least you know the basic styling and function." -Priscil                                                                                                                                                                                           |
+| **Comment**     | "Akan lebih baik kalau kalian punya basic HTML, CSS dan Javascript sebelum mulai belajar React ya. Engga ush terlalu dalem2 banget, at least you know the basic styling and function." -Priscil                                                                                                                                                                                           |
+
+### [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+
+| <!-- -->               | <!-- -->                                                                                                      |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Format** :newspaper: | Articles                                                                                                      |
+| **Prereq**             | -                                                                                                             |
+| **Content**            | Introduction to HTML, HTML usage to structure web pages, HTML metadata, semantic HTML, thinking accessibility |
+| **Depth**              | HTML: ★★★★<br>                                                                                                |
+| **Comment**            | "Baca-baca ini kalo ada waktu ekstra aja." -Gill                                                              |
+
+### [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+
+| <!-- -->               | <!-- -->                                                                                                                                                                                                                                     |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Format** :newspaper: | Articles                                                                                                                                                                                                                                     |
+| **Prereq**             | -                                                                                                                                                                                                                                            |
+| **Content**            | CSS basics (syntax, selectors), CSS layout, CSS text                                                                                                                                                                                         |
+| **Depth**              | CSS: ★★★★★<br>                                                                                                                                                                                                                               |
+| **Comment**            | "Bagian yang penting [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout). Bagian lain kyk selectors bakal jarang dipake nanti karena udah pake Tailwind CSS. Baca-baca bagian lain kalo ada waktu ekstra aja." -Gill |
 
 **[Continue to JavaScript >](../javascript/README.md)**
