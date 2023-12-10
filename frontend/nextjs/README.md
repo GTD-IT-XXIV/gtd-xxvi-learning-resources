@@ -30,4 +30,14 @@ Bagian ini bisa learn as you go.
 | **Depth**             | Next.js: ★★★★★                                          |
 | **Comment**           | -                                                       |
 
+### [Next.js Documentation](https://nextjs.org/docs)
+
+| <!-- -->    | <!-- -->                         |
+| ----------- | -------------------------------- |
+| **Format**  | Documentation                    |
+| **Prereq**  | HTML, CSS, basic JS, basic React |
+| **Content** | Next.js 14                       |
+| **Depth**   | Next.js: ★★★★★                   |
+| **Comment** | "Pilih yang App Router" -Gill    |
+
 **[Continue to Backend >](../../backend/README.md)** or **[Continue to Miscellaneous >](../../misc/README.md)**
