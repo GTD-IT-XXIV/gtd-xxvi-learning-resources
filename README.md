@@ -1,12 +1,23 @@
 # GTD IT Learning Resources :books:
 
-## Content
+## Table of Contents
 
 1. [Foundations](foundations/README.md)
+   1. [HTML & CSS](foundations/html-css/README.md)
+   2. [JavaScript](foundations/javascript/README.md)
 2. [User Experience & Interface Design](ux-ui/README.md)
+   1. User Experience Design :construction:
+   2. [User Interface Design Using Figma](ux-ui/ui/README.md)
 3. [Frontend](frontend/README.md)
+   1. [React & Tailwind CSS](frontend/react-tailwind/README.md)
+   2. [Next.js](frontend/nextjs/README.md)
 4. [Backend](backend/README.md)
+   1. [Node.js](backend/nodejs/README.md)
+   2. [Express](backend/express/README.md)
 5. [Miscellaneous](misc/README.md)
+   1. [Git & GitHub](misc/git-gh/README.md)
+   2. [TypeScript](misc/typescript/README.md)
+   3. [Fullstack](misc/fullstack/README.md)
 
 ## About
 
